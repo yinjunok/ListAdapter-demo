@@ -1,0 +1,2 @@
+rootProject.name='ListAdapterDemo'
+include ':app'
